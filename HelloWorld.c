@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-#include "helloworld.h"
+#include "HelloWorld.h"
 
 int main(int argc, char *argv[])
 {
